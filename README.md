@@ -1,1 +1,5 @@
-# Hello World Azure Static Website Template
+# Syver Drolsum Klungsøyr
+
+# syverdklungsoyr@lewisu.edu
+
+# Final Project Proposal 
